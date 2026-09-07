@@ -1,0 +1,16 @@
+class chef:
+    name = "sai charan"
+    age= 19
+    def cook(self):
+        print("cooking")
+    def fry(self):
+        print("Frying")
+    def roast(self):
+        print("Roasting")
+c1 = chef()
+print(c1.name)
+print(c1.age)
+c1.cook()
+c1.fry()
+c1.roast()    
+    
