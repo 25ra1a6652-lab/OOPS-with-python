@@ -1,0 +1,10 @@
+class student:
+    name= "sai charan"
+    def study(self):
+        print("studying")
+s1=student()
+s2=student()
+s3=student()
+s1.study()
+s2.study()
+s3.study()
